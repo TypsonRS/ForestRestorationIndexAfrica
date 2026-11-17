@@ -1,0 +1,5 @@
+model,cross-validation,AUC mean,AUC sd,folds
+Random forest,random 5-fold,0.9621748633879781,0.006638787109231958,5
+Random forest,spatially blocked 5-fold (1 deg),0.9414224912124279,0.026203688799554873,5
+Gradient boosting,random 5-fold,0.9600122950819673,0.004787821925193439,5
+Gradient boosting,spatially blocked 5-fold (1 deg),0.9413603110305336,0.023294606565949953,5

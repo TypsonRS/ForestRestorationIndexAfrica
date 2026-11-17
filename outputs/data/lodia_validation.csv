@@ -1,0 +1,7 @@
+country,sites,projects,success (%),spearman index vs relative NDVI gain,AUC (index predicts success),AUC 2.5 %,AUC 97.5 %
+Togo,0,0,,,,,
+Cameroon,1,1,0.0,,,,
+Benin,0,0,,,,,
+Madagascar,5,3,40.0,,,,
+Ethiopia,437,2,58.58123569794051,-0.18512494759196318,0.4155947859116022,0.3636744547543907,0.4709588172163415
+All countries,443,6,58.239277652370205,-0.1693121065051782,0.4236329352608422,0.37333297928125514,0.47700960374767465

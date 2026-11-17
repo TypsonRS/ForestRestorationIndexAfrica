@@ -3,3 +3,10 @@ __pycache__/
 .ipynb_checkpoints/
 .qodo/
 outputs/cache/
+
+# Large original downloads (the clipped GeoTIFF and the lookup table are kept)
+external_data/griscom_2017/NCS_Refor11_map*
+debug.log
+
+# LoDIA planting-site dataset (1.2 GB, over the GitHub file limit): download it separately, see README
+external_data/lodia_2025/

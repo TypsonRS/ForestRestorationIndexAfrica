@@ -1,0 +1,7 @@
+map,country,points,opportunity (% of points),AUC (index predicts opportunity),opportunity in high + very high (%),opportunity in low + moderate (%)
+Griscom et al. 2017 reforestation opportunity,Togo,2954,7.887610020311442,0.17065645835206383,1.156515034695451,13.15630657815329
+Griscom et al. 2017 reforestation opportunity,Cameroon,2956,4.431664411366712,0.3466027156657434,0.0,5.11518937914877
+Griscom et al. 2017 reforestation opportunity,Benin,2959,0.1013856032443393,0.06303563373928732,0.0,0.2364066193853428
+Griscom et al. 2017 reforestation opportunity,Madagascar,2632,2.811550151975684,0.2896001944086385,1.2276785714285714,6.190476190476191
+Griscom et al. 2017 reforestation opportunity,Ethiopia,2876,6.502086230876217,0.2236821433330085,2.992052360916316,16.689280868385346
+Griscom et al. 2017 reforestation opportunity,All countries,14377,4.3680879182026855,0.2812044697634061,1.381102146861753,7.4603624009060026

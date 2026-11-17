@@ -1,8 +1,18 @@
-earthengine-api
-geemap
-numpy
-pandas
-matplotlib
-requests
-pillow
-ipykernel
+# Packages for FLR_global_comparison.ipynb, pinned to the versions in the project's .venv.
+# Install into the kernel the notebook runs on:
+#   python -m pip install -r requirements.txt
+# or, from inside the notebook (then restart the kernel):
+#   %pip install -r requirements.txt
+earthengine-api==1.7.52
+geemap==0.39.0
+numpy==2.5.4
+pandas==3.1.1
+matplotlib==3.11.2
+requests==2.34.2
+pillow==13.0.0
+ipykernel==7.4.0
+rasterio==1.5.2
+pyarrow==26.0.1
+scikit-learn==1.9.1
+shap==0.54.1
+shapely==2.2.0

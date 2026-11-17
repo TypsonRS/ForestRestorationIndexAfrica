@@ -1,6 +1,6 @@
-country,Very Low,Low,Moderate,High
-Togo,0.164,99.811,0.025,0.0
-Cameroon,0.294,99.395,0.311,0.0
-Benin,0.283,99.715,0.002,0.0
-Madagascar,0.086,99.882,0.032,0.0
-Ethiopia,0.703,99.294,0.003,0.0
+country,Low,Moderate,High,Very high
+Togo,17.163,38.93,28.097,15.809
+Cameroon,71.482,15.156,7.442,5.92
+Benin,4.9,37.986,41.568,15.546
+Madagascar,20.788,17.323,28.227,33.662
+Ethiopia,10.257,15.369,19.576,54.798

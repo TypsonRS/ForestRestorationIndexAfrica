@@ -1,0 +1,6 @@
+matrix,size,CR,consistent (CR < 0.1)
+between groups,4,0.005742433773324112,True
+Climate and water,6,0.011812487341821025,True
+Soil and terrain,4,0.009145984488539859,True
+Vegetation and land cover,5,0.003303154586906506,True
+Human pressure and disturbance,5,0.0058900476546299065,True

@@ -1,0 +1,16 @@
+factor,dataset,native resolution,period,group
+"ndvi, bsi, ndwi, nbai",Sentinel-2 SR harmonised (median),10-20 m,2020-2024 median,current state
+precipitation,CHIRPS daily,~5.5 km,2015-2024 mean,climate mean
+"maxTemperature, soilMoisture",TerraClimate,~4 km,2015-2024 mean,climate mean
+undergroundWater,GRACE + GRACE-FO JPL mascon (CRI) trend,~55 km (0.5 deg grid),2015-2024 trend,current state
+slope,SRTM,30 m,2000,static
+erosion,"RUSLE from CHIRPS, OpenLandMap, MERIT, Sentinel-2",~250 m (soil) / 90 m,"R and C 2015-2024; K, LS static",static + climate
+"soc, soilTexture",iSDAsoil 20-50 cm,30 m (modelled),~2021,static
+lulc,ESA WorldCover v100,10 m,2020,current state
+fireMask,MODIS MOD14A1,1 km,2020-2024,current state
+cropMask,GLAD global cropland,30 m,2019,current state
+population_density,GPW v4.11 UN-adjusted,~1 km,2020,current state
+biomasC,ESA CCI Biomass v6 (AGB x 0.47),100 m,2020,current state
+settlement,GHSL built-up surface,100 m,2020,current state
+treeloss,Hansen GFC v1.12,30 m,2015-2024,current state
+drainage,MERIT Hydro upstream area,90 m,static,static
