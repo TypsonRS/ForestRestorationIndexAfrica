@@ -16,7 +16,7 @@ If you only need the results, read sections 1 to 5. Sections 6 to 9 are for peop
 
 ## 1. What the index means
 
-The **FLR restoration priority index** is a number between 0 and 1 for every piece of land. **A higher value means more degraded land and a greater need for restoration.** It combines 20 factors (vegetation, rainfall, temperature, soil, slope, erosion, land cover, fire, cropland, population, tree-cover loss and others), weighted by expert judgement (AHP method).
+The **FLR restoration priority index** is a number between 0 and 1 for every piece of land. **A higher value means more degraded land and a greater need for restoration.** It combines 20 factors (vegetation, rainfall, temperature, soil, slope, erosion, land cover, fire, cropland, population, tree-cover loss and others), weighted by expert judgement with the analytic hierarchy process (AHP): the authors compared the factors two by two (190 comparisons), and the weights follow from that comparison matrix (consistency ratio 0.095, below the accepted limit of 0.10). The matrix is in `outputs/data/ahp_pairwise_matrix.csv`.
 
 The index is cut into four **priority classes**. The classes are the index itself, read in levels:
 
@@ -27,7 +27,7 @@ The index is cut into four **priority classes**. The classes are the index itsel
 | High | 0.47 to 0.54 | Degraded; restoration recommended |
 | Very high | above 0.54 | Most degraded; first priority |
 
-The same limits apply to all five countries, so "Very high" in Togo means the same as "Very high" in Ethiopia. Open water and built-up land are left out: they cannot be restored.
+The same limits apply to all five countries, so "Very high" in Togo means the same as "Very high" in Ethiopia. The limits are the quartiles of the index over the five countries together, so the classes are **relative**: half of the pooled land is High or Very high by definition. Open water and built-up land are left out: they cannot be restored.
 
 **What the index does not tell you.** It measures *need*, not *feasibility*. It does not include land tenure, cost, community priorities or the likelihood that planting succeeds. See section 5.
 
@@ -65,13 +65,15 @@ Source: [`strata_adm1.csv`](outputs/data/strata_adm1.csv), which ranks every reg
 
 ### National pledges compared with the need
 
-| Country | AFR100 pledge (Mha) | High + Very high area (Mha) | Pledge as share of that area |
+| Country | AFR100 pledge (Mha) | Share of the five-country pledge | Share of the High + Very high land |
 |---|---|---|---|
-| Togo | 1.4 | 2.5 | 57 % |
-| Cameroon | 12.0 | 6.1 | 195 % |
-| Benin | 0.5 | 6.5 | 8 % |
-| Madagascar | 4.0 | 36.0 | 11 % |
-| Ethiopia | 15.0 | 80.8 | 19 % |
+| Togo | 1.4 | 4 % | 2 % |
+| Cameroon | 12.0 | 36 % | 5 % |
+| Benin | 0.5 | 2 % | 5 % |
+| Madagascar | 4.0 | 12 % | 27 % |
+| Ethiopia | 15.0 | 46 % | 61 % |
+
+The comparison is made in shares, not in hectares, because the class areas are relative (section 1). Pledges also reflect forest area, national policy and financing, which the index does not capture.
 
 Source: [`afr100_pledges.csv`](outputs/data/afr100_pledges.csv). The pledge values are those announced by the countries; check them against [afr100.org](https://afr100.org) before quoting them.
 
@@ -121,13 +123,11 @@ Three horizons are used, the 20-year periods of the IPCC Sixth Assessment Report
 |---|---|
 | `cmip6_class_maps_ensemble_ssp245.png`, `..._ssp585.png` | Maps of the classes today and at the three horizons (median of five models). |
 | `cmip6_change_by_model_ssp245.png`, `..._ssp585.png` | For each model, country and horizon: change of the share of each class, with the rainfall and temperature change that explain it. |
-| `cmip6_priority_classes_by_model_<horizon>.png` | Share of each class today and for each model. |
-| `cmip6_area_change_Mha_by_model_<horizon>.png` | Change of the area of each class (Mha) for each model. |
 | `hotspots_gi_star_cmip6_ssp245.png`, `..._ssp585.png` | Hotspots today and at the three horizons. |
 
 ### Robustness (for technical readers)
 
-`mc_class_shares.png`, `uncertainty_weights.png`, `uncertainty_scores.png`, `sign_sensitivity.png`, `weighting_schemes.png`, `weights_ahp_vs_pca.png`, `shap_vs_ahp.png`, `class_breaks.png`, `factor_correlation.png`, `factor_contributions.png`, `index_distribution.png`, `index_per_country_vs_pooled.png`, `published_griscom.png`, `lodia_validation.png`. Each is explained in the notebook section that draws it.
+`mc_class_shares.png`, `uncertainty_weights.png`, `uncertainty_scores.png`, `sign_sensitivity.png`, `weighting_schemes.png`, `weights_ahp_vs_pca.png`, `shap_vs_ahp.png`, `class_breaks.png`, `factor_correlation.png`, `factor_contributions.png`, `published_griscom.png`, `lodia_validation.png`. Each is explained in the notebook section that draws it.
 
 ---
 
@@ -147,7 +147,7 @@ All tables are CSV files in [`outputs/data/`](outputs/data/). They open in Excel
 | How will the classes change with climate, per model? | `cmip6_class_area_Mha_by_model.csv`, `cmip6_class_change_by_model.csv` |
 | How will the classes change on the maps? | `cmip6_class_shares_ensemble_maps.csv` |
 | Will the hotspots move? | `hotspots_cmip6_by_model.csv` |
-| What are the class limits and the weights? | `class_breaks.csv`, `weights_table.csv`, `pooled_normalisation_bounds.csv` |
+| What are the class limits and the weights? | `class_breaks.csv`, `weights_table.csv`, `ahp_pairwise_matrix.csv`, `pooled_normalisation_bounds.csv` |
 | How certain are the classes? | `mc_class_shares.csv`, `score_uncertainty_class_shares.csv`, `oat_sensitivity.csv` |
 | Which data went in, and how recent is it? | `input_vintage_resolution.csv`, `missing_inputs_pct.csv` |
 | How does the index compare with other maps and with field outcomes? | `published_map_comparison.csv`, `validation.csv`, `lodia_validation.csv` |
@@ -191,13 +191,17 @@ Files named `sample_<country>_*.csv`, `pts_*.csv`, `regen_points_*.csv`, `minmax
 
 ## 5. To be kept in mind
 
+1. **Relative, not absolute.** The classes rank land within the five countries. They do not measure how many hectares are degraded.
+1. **Dry is not the same as degraded.** The index follows rainfall closely (correlation -0.78), and 81 % of the Very high class lies in savanna, grassland and desert biomes, where sparse vegetation is natural. In these regions a high index is not a call for tree planting; restoration there means grass and shrub cover, soil and water conservation and natural regeneration. Part of the signal is real degradation: the share of land losing greenness doubles from the Low to the upper classes. Details: `aridity_check_biome.csv`.
 1. **Need, not feasibility.** A Very high class says the land is degraded. It does not say restoration there is affordable, wanted by communities or likely to succeed.
-2. **The index did not predict restoration success in the checks made.** Observed tree-cover gain (2000-2012) occurred mostly on low-priority land, and the index did not separate successful from unsuccessful planting sites in the LoDIA dataset (almost all in Ethiopia). Use the index to locate degradation, and local knowledge to choose sites. Details: `validation.csv`, `lodia_validation.csv`.
-3. **Weights are expert judgement.** The uncertainty analyses show how much the classes depend on them (`mc_class_shares.csv`). Class stability is between 83 % and 95 % depending on the country.
+2. **The land most in need is also the hardest to restore.** Observed tree-cover gain (2000-2012) occurred mostly on low-priority land, and among 443 planting sites of the LoDIA dataset (almost all in Ethiopia) those on high-priority land greened less often than their surroundings. Use the index to locate degradation, and local knowledge to choose sites. Details: `validation.csv`, `lodia_validation.csv`.
+3. **Weights are expert judgement.** They come from one comparison matrix filled by the authors, whose consistency ratio (0.095) is close to the 0.10 limit, and three indices (NDVI, bare soil index, built-up index NBAI) carry nearly the same signal but are weighted separately. The uncertainty analyses show how much the classes depend on the weights (`mc_class_shares.csv`). Class stability is between 83 % and 95 % depending on the country. The direction given to each factor matters more than its weight (`sign_sensitivity.csv`).
 4. **Climate projections cover four of the 20 factors**: rainfall, maximum temperature, soil moisture and vegetation greenness (NDVI), about 40 % of the index weight. Soil, terrain, land cover and human pressure are kept as today. The NDVI projection rests on a statistical relation that explains under half of the NDVI variation. The projections show the *direction* of the climate effect on today's landscape, not a forecast of future land use.
 5. **Climate models disagree**, above all on rainfall in Ethiopia and Benin. The ensemble median hides this; the per-model figures show it.
 6. **Resolution.** Inputs range from 10 m (Sentinel-2) to about 55 km (groundwater). The maps are drawn on a grid of about 1 to 2 km and the statistics come from sample points, so the results suit national and regional planning, not the choice of an individual plot.
-7. **Reference period.** "Today" means about 2020, within 2015-2024.
+7. **Reference period.** "Today" means about 2020, within 2015-2024. The inputs do not all have the same date: land cover is of 2020, cropland of 2019, terrain of 2000 and soil maps are static.
+8. **Comparable within these five countries.** The scale and the class limits are taken from the pooled sample of the five countries. Adding a country changes them, so an extension to other countries needs reference limits fixed once for all.
+9. **No field data.** All checks rest on satellite observations. About 2 % of the sample points lack at least one factor.
 
 ---
 
@@ -256,10 +260,10 @@ Changing the countries or the sample changes the common scale and the class limi
 |---|---|
 | 1 - 6 | Study areas, satellite and climate inputs, soil-loss model, common normalisation, weights, the index and its classes |
 | 7 - 9 | Interactive maps, area per class, comparison between countries |
-| 11 - 21 | Variable atlas, descriptive statistics, collinearity, weight uncertainty, sensitivity, validation, breakdown by biome, protection status and region |
-| 22 - 27 | Checks of every design choice, comparison with published maps and AFR100 pledges |
-| 28 - 29 | Future climate (three horizons, two scenarios, five models) and spatial hotspots |
-| 30 - 33 | Country selection, validation with planting sites, weights learned from observed regrowth, remaining work |
+| 11 - 20 | Variable atlas, descriptive statistics, collinearity, weight uncertainty, sensitivity, validation, breakdown by biome, protection status and region |
+| 21 - 26 | Checks of every design choice (factor directions, class scores, AHP pairwise matrix, class limits, data gaps), comparison with published maps and AFR100 pledges |
+| 27 - 28 | Future climate (three horizons, two scenarios, five models) and spatial hotspots |
+| 29 - 32 | Country selection, validation with planting sites, weights learned from observed regrowth, remaining work |
 
 Every section starts with a short text that explains the method and how to read the result.
 
@@ -289,7 +293,7 @@ Every section starts with a short text that explains the method and how to read 
 All are read from Google Earth Engine. Two external datasets are used for comparison:
 
 - **Griscom et al. 2017 reforestation opportunity**: a clipped copy is included in `external_data/griscom_2017/`.
-- **LoDIA reforestation dataset** (planting sites, used in section 31): 1.2 GB, not included because it exceeds the GitHub file limit. Download it from Harvard Dataverse, [doi:10.7910/DVN/ZJODGO](https://doi.org/10.7910/DVN/ZJODGO), and save it as `external_data/lodia_2025/updated_LoDIA_Reforestation_Dataset.parquet`. Without it, section 31 cannot run; its results are already in `outputs/data/lodia_validation.csv`.
+- **LoDIA reforestation dataset** (planting sites, used in section 30): 1.2 GB, not included because it exceeds the GitHub file limit. Download it from Harvard Dataverse, [doi:10.7910/DVN/ZJODGO](https://doi.org/10.7910/DVN/ZJODGO), and save it as `external_data/lodia_2025/updated_LoDIA_Reforestation_Dataset.parquet`. Without it, section 30 cannot run; its results are already in `outputs/data/lodia_validation.csv`.
 
 ---
 
@@ -297,6 +301,7 @@ All are read from Google Earth Engine. Two external datasets are used for compar
 
 ```
 FLR_global_comparison.ipynb    the analysis
+MANUSCRIPT/                    the manuscript (Word), its figures and its reference list (CSL JSON, for Zotero)
 requirements.txt               Python packages
 outputs/figures/               maps and charts (PNG)
 outputs/data/                  result tables and the point database (CSV)
@@ -311,4 +316,4 @@ LICENSE                        MIT licence
 
 Code and results are released under the [MIT licence](LICENSE), copyright 2026 Kueshi Semanou Dahan.
 
-If you use the maps, tables or code, please cite this repository and its author. The input datasets keep their own licences and should be cited as their providers request.
+If you use the maps, tables or code, please cite this repository and the accompanying manuscript: Dahan, K. S., Hounkpati, K., Moluh Njoya, H., Eshetu, S. B., Sieber, S. & Löhr, K. *A common scale for forest landscape restoration priority across five African countries* (in preparation). The methods, with all equations, are described in `MANUSCRIPT/manuscript.docx`. The input datasets keep their own licences and should be cited as their providers request.

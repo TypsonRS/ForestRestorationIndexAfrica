@@ -1,0 +1,3194 @@
+[
+ {
+  "type": "webpage",
+  "title": "AFR100: the African Forest Landscape Restoration Initiative",
+  "author": [
+   {
+    "literal": "AFR100"
+   }
+  ],
+  "URL": "https://afr100.org",
+  "issued": {
+   "date-parts": [
+    [
+     2026
+    ]
+   ]
+  },
+  "accessed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     18
+    ]
+   ]
+  },
+  "id": "afr100"
+ },
+ {
+  "type": "article-journal",
+  "title": "The global tree restoration potential",
+  "container-title": "Science",
+  "volume": "365",
+  "issue": "6448",
+  "page": "76-79",
+  "DOI": "10.1126/science.aax0848",
+  "URL": "https://doi.org/10.1126/science.aax0848",
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "author": [
+   {
+    "family": "Bastin",
+    "given": "Jean-Francois"
+   },
+   {
+    "family": "Finegold",
+    "given": "Yelena"
+   },
+   {
+    "family": "Garcia",
+    "given": "Claude"
+   },
+   {
+    "family": "Mollicone",
+    "given": "Danilo"
+   },
+   {
+    "family": "Rezende",
+    "given": "Marcelo"
+   },
+   {
+    "family": "Routh",
+    "given": "Devin"
+   },
+   {
+    "family": "Zohner",
+    "given": "Constantin M."
+   },
+   {
+    "family": "Crowther",
+    "given": "Thomas W."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title-short": "Science",
+  "journalAbbreviation": "Science",
+  "id": "bastin2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "Natural climate solutions",
+  "container-title": "Proceedings of the National Academy of Sciences",
+  "volume": "114",
+  "issue": "44",
+  "page": "11645-11650",
+  "DOI": "10.1073/pnas.1710465114",
+  "URL": "https://doi.org/10.1073/pnas.1710465114",
+  "publisher": "National Academy of Sciences",
+  "author": [
+   {
+    "family": "Griscom",
+    "given": "Bronson W."
+   },
+   {
+    "family": "Adams",
+    "given": "Justin"
+   },
+   {
+    "family": "Ellis",
+    "given": "Peter W."
+   },
+   {
+    "family": "Houghton",
+    "given": "Richard A."
+   },
+   {
+    "family": "Lomax",
+    "given": "Guy"
+   },
+   {
+    "family": "Miteva",
+    "given": "Daniela A."
+   },
+   {
+    "family": "Schlesinger",
+    "given": "William H."
+   },
+   {
+    "family": "Shoch",
+    "given": "David"
+   },
+   {
+    "family": "Siikamäki",
+    "given": "Juha V."
+   },
+   {
+    "family": "Smith",
+    "given": "Pete"
+   },
+   {
+    "family": "Woodbury",
+    "given": "Peter"
+   },
+   {
+    "family": "Zganjar",
+    "given": "Chris"
+   },
+   {
+    "family": "Blackman",
+    "given": "Allen"
+   },
+   {
+    "family": "Campari",
+    "given": "João"
+   },
+   {
+    "family": "Conant",
+    "given": "Richard T."
+   },
+   {
+    "family": "Delgado",
+    "given": "Christopher"
+   },
+   {
+    "family": "Elias",
+    "given": "Patricia"
+   },
+   {
+    "family": "Gopalakrishna",
+    "given": "Trisha"
+   },
+   {
+    "family": "Hamsik",
+    "given": "Marisa R."
+   },
+   {
+    "family": "Herrero",
+    "given": "Mario"
+   },
+   {
+    "family": "Kiesecker",
+    "given": "Joseph"
+   },
+   {
+    "family": "Landis",
+    "given": "Emily"
+   },
+   {
+    "family": "Laestadius",
+    "given": "Lars"
+   },
+   {
+    "family": "Leavitt",
+    "given": "Sara M."
+   },
+   {
+    "family": "Minnemeyer",
+    "given": "Susan"
+   },
+   {
+    "family": "Polasky",
+    "given": "Stephen"
+   },
+   {
+    "family": "Potapov",
+    "given": "Peter"
+   },
+   {
+    "family": "Putz",
+    "given": "Francis E."
+   },
+   {
+    "family": "Sanderman",
+    "given": "Jonathan"
+   },
+   {
+    "family": "Silvius",
+    "given": "Marcel"
+   },
+   {
+    "family": "Wollenberg",
+    "given": "Eva"
+   },
+   {
+    "family": "Fargione",
+    "given": "Joseph"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "container-title-short": "Proc. Natl Acad. Sci. USA",
+  "journalAbbreviation": "Proc. Natl Acad. Sci. USA",
+  "id": "griscom2017"
+ },
+ {
+  "type": "article-journal",
+  "title": "Global restoration opportunities in tropical rainforest landscapes",
+  "container-title": "Science Advances",
+  "volume": "5",
+  "issue": "7",
+  "DOI": "10.1126/sciadv.aav3223",
+  "URL": "https://doi.org/10.1126/sciadv.aav3223",
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "author": [
+   {
+    "family": "Brancalion",
+    "given": "Pedro H. S."
+   },
+   {
+    "family": "Niamir",
+    "given": "Aidin"
+   },
+   {
+    "family": "Broadbent",
+    "given": "Eben"
+   },
+   {
+    "family": "Crouzeilles",
+    "given": "Renato"
+   },
+   {
+    "family": "Barros",
+    "given": "Felipe S. M."
+   },
+   {
+    "family": "Almeyda Zambrano",
+    "given": "Angelica M."
+   },
+   {
+    "family": "Baccini",
+    "given": "Alessandro"
+   },
+   {
+    "family": "Aronson",
+    "given": "James"
+   },
+   {
+    "family": "Goetz",
+    "given": "Scott"
+   },
+   {
+    "family": "Reid",
+    "given": "J. Leighton"
+   },
+   {
+    "family": "Strassburg",
+    "given": "Bernardo B. N."
+   },
+   {
+    "family": "Wilson",
+    "given": "Sarah"
+   },
+   {
+    "family": "Chazdon",
+    "given": "Robin L."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "page": "eaav3223",
+  "container-title-short": "Sci. Adv.",
+  "journalAbbreviation": "Sci. Adv.",
+  "id": "brancalion2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "The analytic hierarchy process—what it is and how it is used",
+  "container-title": "Mathematical Modelling",
+  "volume": "9",
+  "issue": "3-5",
+  "page": "161-176",
+  "DOI": "10.1016/0270-0255(87)90473-8",
+  "URL": "https://doi.org/10.1016/0270-0255(87)90473-8",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Saaty",
+    "given": "R.W."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1987
+    ]
+   ]
+  },
+  "container-title-short": "Math. Model.",
+  "journalAbbreviation": "Math. Model.",
+  "id": "saaty1987"
+ },
+ {
+  "type": "article-journal",
+  "title": "High-Resolution Global Maps of 21st-Century Forest Cover Change",
+  "container-title": "Science",
+  "volume": "342",
+  "issue": "6160",
+  "page": "850-853",
+  "DOI": "10.1126/science.1244693",
+  "URL": "https://doi.org/10.1126/science.1244693",
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "author": [
+   {
+    "family": "Hansen",
+    "given": "M. C."
+   },
+   {
+    "family": "Potapov",
+    "given": "P. V."
+   },
+   {
+    "family": "Moore",
+    "given": "R."
+   },
+   {
+    "family": "Hancher",
+    "given": "M."
+   },
+   {
+    "family": "Turubanova",
+    "given": "S. A."
+   },
+   {
+    "family": "Tyukavina",
+    "given": "A."
+   },
+   {
+    "family": "Thau",
+    "given": "D."
+   },
+   {
+    "family": "Stehman",
+    "given": "S. V."
+   },
+   {
+    "family": "Goetz",
+    "given": "S. J."
+   },
+   {
+    "family": "Loveland",
+    "given": "T. R."
+   },
+   {
+    "family": "Kommareddy",
+    "given": "A."
+   },
+   {
+    "family": "Egorov",
+    "given": "A."
+   },
+   {
+    "family": "Chini",
+    "given": "L."
+   },
+   {
+    "family": "Justice",
+    "given": "C. O."
+   },
+   {
+    "family": "Townshend",
+    "given": "J. R. G."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "container-title-short": "Science",
+  "journalAbbreviation": "Science",
+  "id": "hansen2013"
+ },
+ {
+  "type": "article-journal",
+  "title": "Comment on “The global tree restoration potential”",
+  "container-title": "Science",
+  "volume": "366",
+  "issue": "6463",
+  "DOI": "10.1126/science.aay7976",
+  "URL": "https://doi.org/10.1126/science.aay7976",
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "author": [
+   {
+    "family": "Veldman",
+    "given": "Joseph W."
+   },
+   {
+    "family": "Aleman",
+    "given": "Julie C."
+   },
+   {
+    "family": "Alvarado",
+    "given": "Swanni T."
+   },
+   {
+    "family": "Anderson",
+    "given": "T. Michael"
+   },
+   {
+    "family": "Archibald",
+    "given": "Sally"
+   },
+   {
+    "family": "Bond",
+    "given": "William J."
+   },
+   {
+    "family": "Boutton",
+    "given": "Thomas W."
+   },
+   {
+    "family": "Buchmann",
+    "given": "Nina"
+   },
+   {
+    "family": "Buisson",
+    "given": "Elise"
+   },
+   {
+    "family": "Canadell",
+    "given": "Josep G."
+   },
+   {
+    "family": "Dechoum",
+    "given": "Michele de Sá"
+   },
+   {
+    "family": "Diaz-Toribio",
+    "given": "Milton H."
+   },
+   {
+    "family": "Durigan",
+    "given": "Giselda"
+   },
+   {
+    "family": "Ewel",
+    "given": "John J."
+   },
+   {
+    "family": "Fernandes",
+    "given": "G. Wilson"
+   },
+   {
+    "family": "Fidelis",
+    "given": "Alessandra"
+   },
+   {
+    "family": "Fleischman",
+    "given": "Forrest"
+   },
+   {
+    "family": "Good",
+    "given": "Stephen P."
+   },
+   {
+    "family": "Griffith",
+    "given": "Daniel M."
+   },
+   {
+    "family": "Hermann",
+    "given": "Julia-Maria"
+   },
+   {
+    "family": "Hoffmann",
+    "given": "William A."
+   },
+   {
+    "family": "Le Stradic",
+    "given": "Soizig"
+   },
+   {
+    "family": "Lehmann",
+    "given": "Caroline E. R."
+   },
+   {
+    "family": "Mahy",
+    "given": "Gregory"
+   },
+   {
+    "family": "Nerlekar",
+    "given": "Ashish N."
+   },
+   {
+    "family": "Nippert",
+    "given": "Jesse B."
+   },
+   {
+    "family": "Noss",
+    "given": "Reed F."
+   },
+   {
+    "family": "Osborne",
+    "given": "Colin P."
+   },
+   {
+    "family": "Overbeck",
+    "given": "Gerhard E."
+   },
+   {
+    "family": "Parr",
+    "given": "Catherine L."
+   },
+   {
+    "family": "Pausas",
+    "given": "Juli G."
+   },
+   {
+    "family": "Pennington",
+    "given": "R. Toby"
+   },
+   {
+    "family": "Perring",
+    "given": "Michael P."
+   },
+   {
+    "family": "Putz",
+    "given": "Francis E."
+   },
+   {
+    "family": "Ratnam",
+    "given": "Jayashree"
+   },
+   {
+    "family": "Sankaran",
+    "given": "Mahesh"
+   },
+   {
+    "family": "Schmidt",
+    "given": "Isabel B."
+   },
+   {
+    "family": "Schmitt",
+    "given": "Christine B."
+   },
+   {
+    "family": "Silveira",
+    "given": "Fernando A. O."
+   },
+   {
+    "family": "Staver",
+    "given": "A. Carla"
+   },
+   {
+    "family": "Stevens",
+    "given": "Nicola"
+   },
+   {
+    "family": "Still",
+    "given": "Christopher J."
+   },
+   {
+    "family": "Strömberg",
+    "given": "Caroline A. E."
+   },
+   {
+    "family": "Temperton",
+    "given": "Vicky M."
+   },
+   {
+    "family": "Varner",
+    "given": "J. Morgan"
+   },
+   {
+    "family": "Zaloumis",
+    "given": "Nicholas P."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "page": "eaay7976",
+  "container-title-short": "Science",
+  "journalAbbreviation": "Science",
+  "id": "veldman2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "Where Tree Planting and Forest Expansion are Bad for Biodiversity and Ecosystem Services",
+  "container-title": "BioScience",
+  "volume": "65",
+  "issue": "10",
+  "page": "1011-1018",
+  "DOI": "10.1093/biosci/biv118",
+  "URL": "https://doi.org/10.1093/biosci/biv118",
+  "publisher": "Oxford University Press (OUP)",
+  "author": [
+   {
+    "family": "Veldman",
+    "given": "Joseph W."
+   },
+   {
+    "family": "Overbeck",
+    "given": "Gerhard E."
+   },
+   {
+    "family": "Negreiros",
+    "given": "Daniel"
+   },
+   {
+    "family": "Mahy",
+    "given": "Gregory"
+   },
+   {
+    "family": "Le Stradic",
+    "given": "Soizig"
+   },
+   {
+    "family": "Fernandes",
+    "given": "G. Wilson"
+   },
+   {
+    "family": "Durigan",
+    "given": "Giselda"
+   },
+   {
+    "family": "Buisson",
+    "given": "Elise"
+   },
+   {
+    "family": "Putz",
+    "given": "Francis E."
+   },
+   {
+    "family": "Bond",
+    "given": "William J."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "container-title-short": "BioScience",
+  "journalAbbreviation": "BioScience",
+  "id": "veldman2015"
+ },
+ {
+  "type": "article-journal",
+  "title": "The Trouble with Trees: Afforestation Plans for Africa",
+  "container-title": "Trends in Ecology & Evolution",
+  "volume": "34",
+  "issue": "11",
+  "page": "963-965",
+  "DOI": "10.1016/j.tree.2019.08.003",
+  "URL": "https://doi.org/10.1016/j.tree.2019.08.003",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Bond",
+    "given": "William J."
+   },
+   {
+    "family": "Stevens",
+    "given": "Nicola"
+   },
+   {
+    "family": "Midgley",
+    "given": "Guy F."
+   },
+   {
+    "family": "Lehmann",
+    "given": "Caroline E.R."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title-short": "Trends Ecol. Evol.",
+  "journalAbbreviation": "Trends Ecol. Evol.",
+  "id": "bond2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "Conflation of reforestation with restoration is widespread",
+  "container-title": "Science",
+  "volume": "383",
+  "issue": "6684",
+  "page": "698-701",
+  "DOI": "10.1126/science.adj0899",
+  "URL": "https://doi.org/10.1126/science.adj0899",
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "author": [
+   {
+    "family": "Parr",
+    "given": "Catherine L."
+   },
+   {
+    "family": "te Beest",
+    "given": "Mariska"
+   },
+   {
+    "family": "Stevens",
+    "given": "Nicola"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title-short": "Science",
+  "journalAbbreviation": "Science",
+  "id": "parr2024"
+ },
+ {
+  "type": "article-journal",
+  "title": "Global priority areas for ecosystem restoration",
+  "container-title": "Nature",
+  "volume": "586",
+  "issue": "7831",
+  "page": "724-729",
+  "DOI": "10.1038/s41586-020-2784-9",
+  "URL": "https://doi.org/10.1038/s41586-020-2784-9",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Strassburg",
+    "given": "Bernardo B. N."
+   },
+   {
+    "family": "Iribarrem",
+    "given": "Alvaro"
+   },
+   {
+    "family": "Beyer",
+    "given": "Hawthorne L."
+   },
+   {
+    "family": "Cordeiro",
+    "given": "Carlos Leandro"
+   },
+   {
+    "family": "Crouzeilles",
+    "given": "Renato"
+   },
+   {
+    "family": "Jakovac",
+    "given": "Catarina C."
+   },
+   {
+    "family": "Braga Junqueira",
+    "given": "André"
+   },
+   {
+    "family": "Lacerda",
+    "given": "Eduardo"
+   },
+   {
+    "family": "Latawiec",
+    "given": "Agnieszka E."
+   },
+   {
+    "family": "Balmford",
+    "given": "Andrew"
+   },
+   {
+    "family": "Brooks",
+    "given": "Thomas M."
+   },
+   {
+    "family": "Butchart",
+    "given": "Stuart H. M."
+   },
+   {
+    "family": "Chazdon",
+    "given": "Robin L."
+   },
+   {
+    "family": "Erb",
+    "given": "Karl-Heinz"
+   },
+   {
+    "family": "Brancalion",
+    "given": "Pedro"
+   },
+   {
+    "family": "Buchanan",
+    "given": "Graeme"
+   },
+   {
+    "family": "Cooper",
+    "given": "David"
+   },
+   {
+    "family": "Díaz",
+    "given": "Sandra"
+   },
+   {
+    "family": "Donald",
+    "given": "Paul F."
+   },
+   {
+    "family": "Kapos",
+    "given": "Valerie"
+   },
+   {
+    "family": "Leclère",
+    "given": "David"
+   },
+   {
+    "family": "Miles",
+    "given": "Lera"
+   },
+   {
+    "family": "Obersteiner",
+    "given": "Michael"
+   },
+   {
+    "family": "Plutzar",
+    "given": "Christoph"
+   },
+   {
+    "family": "de M. Scaramuzza",
+    "given": "Carlos Alberto"
+   },
+   {
+    "family": "Scarano",
+    "given": "Fabio R."
+   },
+   {
+    "family": "Visconti",
+    "given": "Piero"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "container-title-short": "Nature",
+  "journalAbbreviation": "Nature",
+  "id": "strassburg2020"
+ },
+ {
+  "type": "article-journal",
+  "title": "Reconciling Past and Future Rainfall Trends over East Africa",
+  "container-title": "Journal of Climate",
+  "volume": "28",
+  "issue": "24",
+  "page": "9768-9788",
+  "DOI": "10.1175/jcli-d-15-0140.1",
+  "URL": "https://doi.org/10.1175/jcli-d-15-0140.1",
+  "publisher": "American Meteorological Society",
+  "author": [
+   {
+    "family": "Rowell",
+    "given": "David P."
+   },
+   {
+    "family": "Booth",
+    "given": "Ben B. B."
+   },
+   {
+    "family": "Nicholson",
+    "given": "Sharon E."
+   },
+   {
+    "family": "Good",
+    "given": "Peter"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "container-title-short": "J. Clim.",
+  "journalAbbreviation": "J. Clim.",
+  "id": "rowell2015"
+ },
+ {
+  "type": "article-journal",
+  "title": "‘Eastern African Paradox’ rainfall decline due to shorter not less intense Long Rains",
+  "container-title": "npj Climate and Atmospheric Science",
+  "volume": "2",
+  "issue": "1",
+  "DOI": "10.1038/s41612-019-0091-7",
+  "URL": "https://doi.org/10.1038/s41612-019-0091-7",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Wainwright",
+    "given": "Caroline M."
+   },
+   {
+    "family": "Marsham",
+    "given": "John H."
+   },
+   {
+    "family": "Keane",
+    "given": "Richard J."
+   },
+   {
+    "family": "Rowell",
+    "given": "David P."
+   },
+   {
+    "family": "Finney",
+    "given": "Declan L."
+   },
+   {
+    "family": "Black",
+    "given": "Emily"
+   },
+   {
+    "family": "Allan",
+    "given": "Richard P."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "page": "34",
+  "container-title-short": "npj Clim. Atmos. Sci.",
+  "journalAbbreviation": "npj Clim. Atmos. Sci.",
+  "id": "wainwright2019"
+ },
+ {
+  "type": "webpage",
+  "title": "The World Factbook",
+  "author": [
+   {
+    "literal": "Central Intelligence Agency"
+   }
+  ],
+  "URL": "https://www.cia.gov/the-world-factbook/",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "accessed": {
+   "date-parts": [
+    [
+     2026,
+     11,
+     18
+    ]
+   ]
+  },
+  "id": "cia2025"
+ },
+ {
+  "type": "report",
+  "title": "Climate risk analysis for adaptation planning in Cameroon's agricultural sector",
+  "DOI": "10.48485/PIK.2023.023",
+  "URL": "https://doi.org/10.48485/PIK.2023.023",
+  "publisher": "Potsdam Institute for Climate Impact Research",
+  "author": [
+   {
+    "family": "Gloy",
+    "given": "Nele"
+   },
+   {
+    "family": "Kephe",
+    "given": "Priscilla"
+   },
+   {
+    "family": "Jansen",
+    "given": "Lennart"
+   },
+   {
+    "family": "Ostberg",
+    "given": "Sebastian"
+   },
+   {
+    "family": "Kaufmann",
+    "given": "Juliane"
+   },
+   {
+    "family": "Staubach",
+    "given": "Lina"
+   },
+   {
+    "family": "Tchindjang",
+    "given": "Mesmin"
+   },
+   {
+    "family": "Romanovska",
+    "given": "Paula"
+   },
+   {
+    "family": "Vetter",
+    "given": "Regina"
+   },
+   {
+    "family": "Tomalka",
+    "given": "Julia"
+   },
+   {
+    "family": "Kagonbé",
+    "given": "Timothée"
+   },
+   {
+    "family": "Anaba",
+    "given": "Muriel"
+   },
+   {
+    "family": "Zouh",
+    "given": "Isabella"
+   },
+   {
+    "family": "Amougou",
+    "given": "Joseph A."
+   },
+   {
+    "family": "Cronauer",
+    "given": "Carla"
+   },
+   {
+    "family": "Gornott",
+    "given": "Christoph"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "id": "gloy2023"
+ },
+ {
+  "type": "article-journal",
+  "title": "Climate change impact on the distribution and priority areas for conservation of Sterculia setigera Delile in Benin, West Africa",
+  "container-title": "Trees, Forests and People",
+  "volume": "20",
+  "page": "100840",
+  "DOI": "10.1016/j.tfp.2025.100840",
+  "URL": "https://doi.org/10.1016/j.tfp.2025.100840",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Djaboutou",
+    "given": "Rissicath Foumilayo"
+   },
+   {
+    "family": "Biaou",
+    "given": "Séverin"
+   },
+   {
+    "family": "Gouwakinnou",
+    "given": "Gérard Nounagnon"
+   },
+   {
+    "family": "Ouinsavi",
+    "given": "Christine A. I. Nougbodé"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title-short": "Trees For. People",
+  "journalAbbreviation": "Trees For. People",
+  "id": "djaboutou2025"
+ },
+ {
+  "type": "report",
+  "title": "Climate risk assessment: Ethiopia",
+  "DOI": "10.5281/zenodo.16617248",
+  "URL": "https://doi.org/10.5281/zenodo.16617248",
+  "publisher": "Zenodo",
+  "author": [
+   {
+    "family": "Dusseau",
+    "given": "Dominick"
+   },
+   {
+    "family": "Lute",
+    "given": "Abigail"
+   },
+   {
+    "family": "Ezra",
+    "given": "Abay"
+   },
+   {
+    "family": "Cummings",
+    "given": "Jamie"
+   },
+   {
+    "family": "Condia",
+    "given": "Andrew"
+   },
+   {
+    "family": "Fennelly",
+    "given": "Abigail"
+   },
+   {
+    "family": "Dobler-Morales",
+    "given": "Carlos"
+   },
+   {
+    "family": "Fedor",
+    "given": "Patrick"
+   },
+   {
+    "family": "McGlinchey",
+    "given": "David"
+   },
+   {
+    "family": "Schwalm",
+    "given": "Christopher"
+   },
+   {
+    "literal": "Woodwell Climate Research Center"
+   },
+   {
+    "literal": "Ethiopian Ministry of Planning and Development"
+   },
+   {
+    "literal": "Ethiopian Ministry of Water and Energy"
+   },
+   {
+    "literal": "Ethiopian Disaster Risk Management Commission"
+   },
+   {
+    "literal": "Ethiopian Space Science and Geospatial Institute"
+   },
+   {
+    "literal": "Addis Ababa University"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "id": "dusseau2025"
+ },
+ {
+  "type": "article-journal",
+  "title": "Uncertain future for Congo Basin biodiversity: A systematic review of climate change impacts",
+  "container-title": "Biological Conservation",
+  "volume": "297",
+  "page": "110730",
+  "DOI": "10.1016/j.biocon.2024.110730",
+  "URL": "https://doi.org/10.1016/j.biocon.2024.110730",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Beekmann",
+    "given": "Milena"
+   },
+   {
+    "family": "Gallois",
+    "given": "Sandrine"
+   },
+   {
+    "family": "Rondinini",
+    "given": "Carlo"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title-short": "Biol. Conserv.",
+  "journalAbbreviation": "Biol. Conserv.",
+  "id": "beekmann2024"
+ },
+ {
+  "type": "article-journal",
+  "title": "Small scale agriculture continues to drive deforestation and degradation in fragmented forests in the Congo Basin (2015–2020)",
+  "container-title": "Land Use Policy",
+  "volume": "134",
+  "page": "106922",
+  "DOI": "10.1016/j.landusepol.2023.106922",
+  "URL": "https://doi.org/10.1016/j.landusepol.2023.106922",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Shapiro",
+    "given": "Aurélie"
+   },
+   {
+    "family": "d’Annunzio",
+    "given": "Rémi"
+   },
+   {
+    "family": "Desclée",
+    "given": "Baudouin"
+   },
+   {
+    "family": "Jungers",
+    "given": "Quentin"
+   },
+   {
+    "family": "Kondjo",
+    "given": "Héritier Koy"
+   },
+   {
+    "family": "Iyanga",
+    "given": "Josefina Mbulito"
+   },
+   {
+    "family": "Gangyo",
+    "given": "Francis Inicko"
+   },
+   {
+    "family": "Nana",
+    "given": "Tatiana"
+   },
+   {
+    "family": "Obame",
+    "given": "Conan Vassily"
+   },
+   {
+    "family": "Milandou",
+    "given": "Carine"
+   },
+   {
+    "family": "Rambaud",
+    "given": "Pierrick"
+   },
+   {
+    "family": "Sonwa",
+    "given": "Denis Jean"
+   },
+   {
+    "family": "Mertens",
+    "given": "Benoît"
+   },
+   {
+    "family": "Tchana",
+    "given": "Elisée"
+   },
+   {
+    "family": "Khasa",
+    "given": "Damase"
+   },
+   {
+    "family": "Bourgoin",
+    "given": "Clément"
+   },
+   {
+    "family": "Ouissika",
+    "given": "Chérubins Brice"
+   },
+   {
+    "family": "Kipute",
+    "given": "Daddy D."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "container-title-short": "Land Use Policy",
+  "journalAbbreviation": "Land Use Policy",
+  "id": "shapiro2023"
+ },
+ {
+  "type": "article-journal",
+  "title": "Patterns of Loss and Regeneration of Tropical Dry Forest in Madagascar: The Social Institutional Context",
+  "container-title": "PLoS ONE",
+  "volume": "2",
+  "issue": "5",
+  "page": "e402",
+  "DOI": "10.1371/journal.pone.0000402",
+  "URL": "https://doi.org/10.1371/journal.pone.0000402",
+  "publisher": "Public Library of Science (PLoS)",
+  "author": [
+   {
+    "family": "Elmqvist",
+    "given": "Thomas"
+   },
+   {
+    "family": "Pyykönen",
+    "given": "Markku"
+   },
+   {
+    "family": "Tengö",
+    "given": "Maria"
+   },
+   {
+    "family": "Rakotondrasoa",
+    "given": "Fanambinantsoa"
+   },
+   {
+    "family": "Rabakonandrianina",
+    "given": "Elisabeth"
+   },
+   {
+    "family": "Radimilahy",
+    "given": "Chantal"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2007
+    ]
+   ]
+  },
+  "container-title-short": "PLoS ONE",
+  "journalAbbreviation": "PLoS ONE",
+  "id": "elmqvist2007"
+ },
+ {
+  "type": "article-journal",
+  "title": "Strengthening Forest Landscape Restoration through Understanding Land Use Dynamics: Case Study of Tchamba Prefecture (Togo)",
+  "container-title": "Journal of the Indian Society of Remote Sensing",
+  "volume": "52",
+  "issue": "5",
+  "page": "1117-1134",
+  "DOI": "10.1007/s12524-024-01862-w",
+  "URL": "https://doi.org/10.1007/s12524-024-01862-w",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Hounkpati",
+    "given": "Kossi"
+   },
+   {
+    "family": "Adjonou",
+    "given": "Kossi"
+   },
+   {
+    "family": "Moluh Njoya",
+    "given": "Hamza"
+   },
+   {
+    "family": "Hlovor",
+    "given": "Atsu K. Dogbeda"
+   },
+   {
+    "family": "Kipkulei",
+    "given": "Harison Kiplagat"
+   },
+   {
+    "family": "Sieber",
+    "given": "Stefan"
+   },
+   {
+    "family": "Löhr",
+    "given": "Katharina"
+   },
+   {
+    "family": "Kokou",
+    "given": "Kouami"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "container-title-short": "J. Indian Soc. Remote Sens.",
+  "journalAbbreviation": "J. Indian Soc. Remote Sens.",
+  "id": "hounkpati2024"
+ },
+ {
+  "type": "article-journal",
+  "title": "The effect of financial crises on deforestation: a global and regional panel data analysis",
+  "container-title": "Sustainability Science",
+  "volume": "17",
+  "issue": "3",
+  "page": "1037-1057",
+  "DOI": "10.1007/s11625-021-01086-8",
+  "URL": "https://doi.org/10.1007/s11625-021-01086-8",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Antonarakis",
+    "given": "Alexander S."
+   },
+   {
+    "family": "Pacca",
+    "given": "Lucia"
+   },
+   {
+    "family": "Antoniades",
+    "given": "Andreas"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title-short": "Sustain. Sci.",
+  "journalAbbreviation": "Sustain. Sci.",
+  "id": "antonarakis2022"
+ },
+ {
+  "type": "article-journal",
+  "title": "Resolving land tenure security is essential to deliver forest restoration",
+  "container-title": "Communications Earth & Environment",
+  "volume": "4",
+  "issue": "1",
+  "DOI": "10.1038/s43247-023-00847-w",
+  "URL": "https://doi.org/10.1038/s43247-023-00847-w",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Rakotonarivo",
+    "given": "O. Sarobidy"
+   },
+   {
+    "family": "Rakotoarisoa",
+    "given": "Mirindra"
+   },
+   {
+    "family": "Rajaonarivelo",
+    "given": "H. Manoa"
+   },
+   {
+    "family": "Raharijaona",
+    "given": "Stefana"
+   },
+   {
+    "family": "Jones",
+    "given": "Julia P. G."
+   },
+   {
+    "family": "Hockley",
+    "given": "Neal"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "page": "179",
+  "container-title-short": "Commun. Earth Environ.",
+  "journalAbbreviation": "Commun. Earth Environ.",
+  "id": "rakotonarivo2023"
+ },
+ {
+  "type": "article-journal",
+  "title": "Assessment of land use and land cover (LULC) and vegetation degradation state from wildfire within the scope of forest landscape restoration (FLR) in Cameroon",
+  "container-title": "European Journal of Remote Sensing",
+  "volume": "58",
+  "issue": "1",
+  "DOI": "10.1080/22797254.2025.2498955",
+  "URL": "https://doi.org/10.1080/22797254.2025.2498955",
+  "publisher": "Informa UK Limited",
+  "author": [
+   {
+    "family": "Dahan",
+    "given": "Kueshi Sémanou"
+   },
+   {
+    "family": "Moluh Njoya",
+    "given": "Hamza"
+   },
+   {
+    "family": "Eshetu",
+    "given": "Shibire Bekele"
+   },
+   {
+    "family": "Hounkpati",
+    "given": "Kossi"
+   },
+   {
+    "family": "Ratsimba",
+    "given": "Harifidy Rakoto"
+   },
+   {
+    "family": "Sieber",
+    "given": "Stefan"
+   },
+   {
+    "family": "Löhr",
+    "given": "Katharina"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "page": "2498955",
+  "container-title-short": "Eur. J. Remote Sens.",
+  "journalAbbreviation": "Eur. J. Remote Sens.",
+  "id": "dahan2025"
+ },
+ {
+  "type": "article-journal",
+  "title": "Drivers affecting adoption of forest landscape restoration among smallholder farmers in Central Togo",
+  "container-title": "Frontiers in Sustainable Food Systems",
+  "volume": "8",
+  "DOI": "10.3389/fsufs.2024.1425797",
+  "URL": "https://doi.org/10.3389/fsufs.2024.1425797",
+  "publisher": "Frontiers Media SA",
+  "author": [
+   {
+    "family": "Hounkpati",
+    "given": "Kossi"
+   },
+   {
+    "family": "Moluh Njoya",
+    "given": "Hamza"
+   },
+   {
+    "family": "Adjonou",
+    "given": "Kossi"
+   },
+   {
+    "family": "Kokou",
+    "given": "Kouami"
+   },
+   {
+    "family": "Sieber",
+    "given": "Stefan"
+   },
+   {
+    "family": "Löhr",
+    "given": "Katharina"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "page": "1425797",
+  "container-title-short": "Front. Sustain. Food Syst.",
+  "journalAbbreviation": "Front. Sustain. Food Syst.",
+  "id": "hounkpati2024b"
+ },
+ {
+  "type": "article-journal",
+  "title": "Institutional Design of Forest Landscape Restoration in Central Togo: Informing Policy-making through Q Methodology Analysis",
+  "container-title": "Environmental Management",
+  "volume": "75",
+  "issue": "5",
+  "page": "1239-1256",
+  "DOI": "10.1007/s00267-025-02137-x",
+  "URL": "https://doi.org/10.1007/s00267-025-02137-x",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Moluh Njoya",
+    "given": "Hamza"
+   },
+   {
+    "family": "Hounkpati",
+    "given": "Kossi"
+   },
+   {
+    "family": "Adjonou",
+    "given": "Kossi"
+   },
+   {
+    "family": "Kokou",
+    "given": "Kouami"
+   },
+   {
+    "family": "Sieber",
+    "given": "Stefan"
+   },
+   {
+    "family": "Löhr",
+    "given": "Katharina"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "container-title-short": "Environ. Manage.",
+  "journalAbbreviation": "Environ. Manage.",
+  "id": "moluh2025"
+ },
+ {
+  "type": "paper-conference",
+  "title": "Sentinel-2 Global Surface Reflectance Level-2a Product Generated with Sen2Cor",
+  "container-title": "IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium",
+  "page": "8522-8525",
+  "DOI": "10.1109/igarss.2019.8898540",
+  "URL": "https://doi.org/10.1109/igarss.2019.8898540",
+  "publisher": "IEEE",
+  "author": [
+   {
+    "family": "Louis",
+    "given": "Jerome"
+   },
+   {
+    "family": "Pflug",
+    "given": "Bringfried"
+   },
+   {
+    "family": "Main-Knorn",
+    "given": "Magdalena"
+   },
+   {
+    "family": "Debaecker",
+    "given": "Vincent"
+   },
+   {
+    "family": "Mueller-Wilm",
+    "given": "Uwe"
+   },
+   {
+    "family": "Iannone",
+    "given": "Rosario Quirino"
+   },
+   {
+    "family": "Giuseppe Cadau",
+    "given": "Enrico"
+   },
+   {
+    "family": "Boccia",
+    "given": "Valentina"
+   },
+   {
+    "family": "Gascon",
+    "given": "Ferran"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "id": "louis2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "Red and photographic infrared linear combinations for monitoring vegetation",
+  "container-title": "Remote Sensing of Environment",
+  "volume": "8",
+  "issue": "2",
+  "page": "127-150",
+  "DOI": "10.1016/0034-4257(79)90013-0",
+  "URL": "https://doi.org/10.1016/0034-4257(79)90013-0",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Tucker",
+    "given": "Compton J."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1979
+    ]
+   ]
+  },
+  "container-title-short": "Remote Sens. Environ.",
+  "journalAbbreviation": "Remote Sens. Environ.",
+  "id": "tucker1979"
+ },
+ {
+  "type": "article-journal",
+  "title": "NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space",
+  "container-title": "Remote Sensing of Environment",
+  "volume": "58",
+  "issue": "3",
+  "page": "257-266",
+  "DOI": "10.1016/s0034-4257(96)00067-3",
+  "URL": "https://doi.org/10.1016/s0034-4257(96)00067-3",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Gao",
+    "given": "Bo-cai"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1996
+    ]
+   ]
+  },
+  "container-title-short": "Remote Sens. Environ.",
+  "journalAbbreviation": "Remote Sens. Environ.",
+  "id": "gao1996"
+ },
+ {
+  "type": "article-journal",
+  "title": "Emerging trends in global freshwater availability",
+  "container-title": "Nature",
+  "volume": "557",
+  "issue": "7707",
+  "page": "651-659",
+  "DOI": "10.1038/s41586-018-0123-1",
+  "URL": "https://doi.org/10.1038/s41586-018-0123-1",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Rodell",
+    "given": "M."
+   },
+   {
+    "family": "Famiglietti",
+    "given": "J. S."
+   },
+   {
+    "family": "Wiese",
+    "given": "D. N."
+   },
+   {
+    "family": "Reager",
+    "given": "J. T."
+   },
+   {
+    "family": "Beaudoing",
+    "given": "H. K."
+   },
+   {
+    "family": "Landerer",
+    "given": "F. W."
+   },
+   {
+    "family": "Lo",
+    "given": "M.-H."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "container-title-short": "Nature",
+  "journalAbbreviation": "Nature",
+  "id": "rodell2018"
+ },
+ {
+  "type": "article-journal",
+  "title": "Using monthly precipitation data to estimate the R-factor in the revised USLE",
+  "container-title": "Journal of Hydrology",
+  "volume": "157",
+  "issue": "1-4",
+  "page": "287-306",
+  "DOI": "10.1016/0022-1694(94)90110-4",
+  "URL": "https://doi.org/10.1016/0022-1694(94)90110-4",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Renard",
+    "given": "Kenneth G."
+   },
+   {
+    "family": "Freimund",
+    "given": "Jeremy R."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1994
+    ]
+   ]
+  },
+  "container-title-short": "J. Hydrol.",
+  "journalAbbreviation": "J. Hydrol.",
+  "id": "renard1994"
+ },
+ {
+  "type": "chapter",
+  "title": "The EPIC model",
+  "author": [
+   {
+    "family": "Williams",
+    "given": "J. R."
+   }
+  ],
+  "editor": [
+   {
+    "family": "Singh",
+    "given": "V. P."
+   }
+  ],
+  "container-title": "Computer Models of Watershed Hydrology",
+  "page": "909-1000",
+  "publisher": "Water Resources Publications",
+  "issued": {
+   "date-parts": [
+    [
+     1995
+    ]
+   ]
+  },
+  "id": "williams1995"
+ },
+ {
+  "type": "article-journal",
+  "title": "Physical Basis of the Length-slope Factor in the Universal Soil Loss Equation",
+  "container-title": "Soil Science Society of America Journal",
+  "volume": "50",
+  "issue": "5",
+  "page": "1294-1298",
+  "DOI": "10.2136/sssaj1986.03615995005000050042x",
+  "URL": "https://doi.org/10.2136/sssaj1986.03615995005000050042x",
+  "publisher": "Wiley",
+  "author": [
+   {
+    "family": "Moore",
+    "given": "Ian D."
+   },
+   {
+    "family": "Burch",
+    "given": "Gordon J."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1986
+    ]
+   ]
+  },
+  "container-title-short": "Soil Sci. Soc. Am. J.",
+  "journalAbbreviation": "Soil Sci. Soc. Am. J.",
+  "id": "moore1986"
+ },
+ {
+  "type": "report",
+  "title": "Soil Erosion Risk Assessment in Europe",
+  "author": [
+   {
+    "family": "van der Knijff",
+    "given": "J. M."
+   },
+   {
+    "family": "Jones",
+    "given": "R. J. A."
+   },
+   {
+    "family": "Montanarella",
+    "given": "L."
+   }
+  ],
+  "number": "EUR 19044 EN",
+  "publisher": "European Soil Bureau, Joint Research Centre",
+  "issued": {
+   "date-parts": [
+    [
+     2000
+    ]
+   ]
+  },
+  "id": "knijff2000"
+ },
+ {
+  "type": "article-journal",
+  "title": "The climate hazards infrared precipitation with stations—a new environmental record for monitoring extremes",
+  "container-title": "Scientific Data",
+  "volume": "2",
+  "issue": "1",
+  "DOI": "10.1038/sdata.2015.66",
+  "URL": "https://doi.org/10.1038/sdata.2015.66",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Funk",
+    "given": "Chris"
+   },
+   {
+    "family": "Peterson",
+    "given": "Pete"
+   },
+   {
+    "family": "Landsfeld",
+    "given": "Martin"
+   },
+   {
+    "family": "Pedreros",
+    "given": "Diego"
+   },
+   {
+    "family": "Verdin",
+    "given": "James"
+   },
+   {
+    "family": "Shukla",
+    "given": "Shraddhanand"
+   },
+   {
+    "family": "Husak",
+    "given": "Gregory"
+   },
+   {
+    "family": "Rowland",
+    "given": "James"
+   },
+   {
+    "family": "Harrison",
+    "given": "Laura"
+   },
+   {
+    "family": "Hoell",
+    "given": "Andrew"
+   },
+   {
+    "family": "Michaelsen",
+    "given": "Joel"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "page": "150066",
+  "container-title-short": "Sci. Data",
+  "journalAbbreviation": "Sci. Data",
+  "id": "funk2015"
+ },
+ {
+  "type": "dataset",
+  "title": "ESA WorldCover 10 m 2020 v100",
+  "DOI": "10.5281/zenodo.5571936",
+  "URL": "https://doi.org/10.5281/zenodo.5571936",
+  "publisher": "Zenodo",
+  "version": "v100",
+  "author": [
+   {
+    "family": "Zanaga",
+    "given": "Daniele"
+   },
+   {
+    "family": "Van De Kerchove",
+    "given": "Ruben"
+   },
+   {
+    "family": "De Keersmaecker",
+    "given": "Wanda"
+   },
+   {
+    "family": "Souverijns",
+    "given": "Niels"
+   },
+   {
+    "family": "Brockmann",
+    "given": "Carsten"
+   },
+   {
+    "family": "Quast",
+    "given": "Ralf"
+   },
+   {
+    "family": "Wevers",
+    "given": "Jan"
+   },
+   {
+    "family": "Grosu",
+    "given": "Alex"
+   },
+   {
+    "family": "Paccini",
+    "given": "Audrey"
+   },
+   {
+    "family": "Vergnaud",
+    "given": "Sylvain"
+   },
+   {
+    "family": "Cartus",
+    "given": "Oliver"
+   },
+   {
+    "family": "Santoro",
+    "given": "Maurizio"
+   },
+   {
+    "family": "Fritz",
+    "given": "Steffen"
+   },
+   {
+    "family": "Georgieva",
+    "given": "Ivelina"
+   },
+   {
+    "family": "Lesiv",
+    "given": "Myroslava"
+   },
+   {
+    "family": "Carter",
+    "given": "Sarah"
+   },
+   {
+    "family": "Herold",
+    "given": "Martin"
+   },
+   {
+    "family": "Li",
+    "given": "Linlin"
+   },
+   {
+    "family": "Tsendbazar",
+    "given": "Nandin-Erdene"
+   },
+   {
+    "family": "Ramoino",
+    "given": "Fabrizio"
+   },
+   {
+    "family": "Arino",
+    "given": "Olivier"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "id": "zanaga2021"
+ },
+ {
+  "type": "article-journal",
+  "title": "TerraClimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958–2015",
+  "container-title": "Scientific Data",
+  "volume": "5",
+  "issue": "1",
+  "DOI": "10.1038/sdata.2017.191",
+  "URL": "https://doi.org/10.1038/sdata.2017.191",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Abatzoglou",
+    "given": "John T."
+   },
+   {
+    "family": "Dobrowski",
+    "given": "Solomon Z."
+   },
+   {
+    "family": "Parks",
+    "given": "Sean A."
+   },
+   {
+    "family": "Hegewisch",
+    "given": "Katherine C."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "page": "170191",
+  "container-title-short": "Sci. Data",
+  "journalAbbreviation": "Sci. Data",
+  "id": "abatzoglou2018"
+ },
+ {
+  "type": "article-journal",
+  "title": "African soil properties and nutrients mapped at 30 m spatial resolution using two-scale ensemble machine learning",
+  "container-title": "Scientific Reports",
+  "volume": "11",
+  "issue": "1",
+  "DOI": "10.1038/s41598-021-85639-y",
+  "URL": "https://doi.org/10.1038/s41598-021-85639-y",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Hengl",
+    "given": "Tomislav"
+   },
+   {
+    "family": "Miller",
+    "given": "Matthew A. E."
+   },
+   {
+    "family": "Križan",
+    "given": "Josip"
+   },
+   {
+    "family": "Shepherd",
+    "given": "Keith D."
+   },
+   {
+    "family": "Sila",
+    "given": "Andrew"
+   },
+   {
+    "family": "Kilibarda",
+    "given": "Milan"
+   },
+   {
+    "family": "Antonijević",
+    "given": "Ognjen"
+   },
+   {
+    "family": "Glušica",
+    "given": "Luka"
+   },
+   {
+    "family": "Dobermann",
+    "given": "Achim"
+   },
+   {
+    "family": "Haefele",
+    "given": "Stephan M."
+   },
+   {
+    "family": "McGrath",
+    "given": "Steve P."
+   },
+   {
+    "family": "Acquah",
+    "given": "Gifty E."
+   },
+   {
+    "family": "Collinson",
+    "given": "Jamie"
+   },
+   {
+    "family": "Parente",
+    "given": "Leandro"
+   },
+   {
+    "family": "Sheykhmousa",
+    "given": "Mohammadreza"
+   },
+   {
+    "family": "Saito",
+    "given": "Kazuki"
+   },
+   {
+    "family": "Johnson",
+    "given": "Jean-Martial"
+   },
+   {
+    "family": "Chamberlin",
+    "given": "Jordan"
+   },
+   {
+    "family": "Silatsa",
+    "given": "Francis B. T."
+   },
+   {
+    "family": "Yemefack",
+    "given": "Martin"
+   },
+   {
+    "family": "Wendt",
+    "given": "John"
+   },
+   {
+    "family": "MacMillan",
+    "given": "Robert A."
+   },
+   {
+    "family": "Wheeler",
+    "given": "Ichsani"
+   },
+   {
+    "family": "Crouch",
+    "given": "Jonathan"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "page": "6130",
+  "container-title-short": "Sci. Rep.",
+  "journalAbbreviation": "Sci. Rep.",
+  "id": "hengl2021"
+ },
+ {
+  "type": "article-journal",
+  "title": "The Shuttle Radar Topography Mission",
+  "container-title": "Reviews of Geophysics",
+  "volume": "45",
+  "issue": "2",
+  "DOI": "10.1029/2005rg000183",
+  "URL": "https://doi.org/10.1029/2005rg000183",
+  "publisher": "American Geophysical Union (AGU)",
+  "author": [
+   {
+    "family": "Farr",
+    "given": "Tom G."
+   },
+   {
+    "family": "Rosen",
+    "given": "Paul A."
+   },
+   {
+    "family": "Caro",
+    "given": "Edward"
+   },
+   {
+    "family": "Crippen",
+    "given": "Robert"
+   },
+   {
+    "family": "Duren",
+    "given": "Riley"
+   },
+   {
+    "family": "Hensley",
+    "given": "Scott"
+   },
+   {
+    "family": "Kobrick",
+    "given": "Michael"
+   },
+   {
+    "family": "Paller",
+    "given": "Mimi"
+   },
+   {
+    "family": "Rodriguez",
+    "given": "Ernesto"
+   },
+   {
+    "family": "Roth",
+    "given": "Ladislav"
+   },
+   {
+    "family": "Seal",
+    "given": "David"
+   },
+   {
+    "family": "Shaffer",
+    "given": "Scott"
+   },
+   {
+    "family": "Shimada",
+    "given": "Joanne"
+   },
+   {
+    "family": "Umland",
+    "given": "Jeffrey"
+   },
+   {
+    "family": "Werner",
+    "given": "Marian"
+   },
+   {
+    "family": "Oskin",
+    "given": "Michael"
+   },
+   {
+    "family": "Burbank",
+    "given": "Douglas"
+   },
+   {
+    "family": "Alsdorf",
+    "given": "Douglas"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2007
+    ]
+   ]
+  },
+  "page": "RG2004",
+  "container-title-short": "Rev. Geophys.",
+  "journalAbbreviation": "Rev. Geophys.",
+  "id": "farr2007"
+ },
+ {
+  "type": "article-journal",
+  "title": "MERIT Hydro: A High-Resolution Global Hydrography Map Based on Latest Topography Dataset",
+  "container-title": "Water Resources Research",
+  "volume": "55",
+  "issue": "6",
+  "page": "5053-5073",
+  "DOI": "10.1029/2019wr024873",
+  "URL": "https://doi.org/10.1029/2019wr024873",
+  "publisher": "American Geophysical Union (AGU)",
+  "author": [
+   {
+    "family": "Yamazaki",
+    "given": "Dai"
+   },
+   {
+    "family": "Ikeshima",
+    "given": "Daiki"
+   },
+   {
+    "family": "Sosa",
+    "given": "Jeison"
+   },
+   {
+    "family": "Bates",
+    "given": "Paul D."
+   },
+   {
+    "family": "Allen",
+    "given": "George H."
+   },
+   {
+    "family": "Pavelsky",
+    "given": "Tamlin M."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "container-title-short": "Water Resour. Res.",
+  "journalAbbreviation": "Water Resour. Res.",
+  "id": "yamazaki2019"
+ },
+ {
+  "type": "article-journal",
+  "title": "Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century",
+  "container-title": "Nature Food",
+  "volume": "3",
+  "issue": "1",
+  "page": "19-28",
+  "DOI": "10.1038/s43016-021-00429-z",
+  "URL": "https://doi.org/10.1038/s43016-021-00429-z",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Potapov",
+    "given": "Peter"
+   },
+   {
+    "family": "Turubanova",
+    "given": "Svetlana"
+   },
+   {
+    "family": "Hansen",
+    "given": "Matthew C."
+   },
+   {
+    "family": "Tyukavina",
+    "given": "Alexandra"
+   },
+   {
+    "family": "Zalles",
+    "given": "Viviana"
+   },
+   {
+    "family": "Khan",
+    "given": "Ahmad"
+   },
+   {
+    "family": "Song",
+    "given": "Xiao-Peng"
+   },
+   {
+    "family": "Pickens",
+    "given": "Amy"
+   },
+   {
+    "family": "Shen",
+    "given": "Quan"
+   },
+   {
+    "family": "Cortez",
+    "given": "Jocelyn"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "container-title-short": "Nat. Food",
+  "journalAbbreviation": "Nat. Food",
+  "id": "potapov2022"
+ },
+ {
+  "type": "article-journal",
+  "title": "Accuracy of scaled GRACE terrestrial water storage estimates",
+  "container-title": "Water Resources Research",
+  "volume": "48",
+  "issue": "4",
+  "DOI": "10.1029/2011wr011453",
+  "URL": "https://doi.org/10.1029/2011wr011453",
+  "publisher": "American Geophysical Union (AGU)",
+  "author": [
+   {
+    "family": "Landerer",
+    "given": "F. W."
+   },
+   {
+    "family": "Swenson",
+    "given": "S. C."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2012
+    ]
+   ]
+  },
+  "page": "W04531",
+  "container-title-short": "Water Resour. Res.",
+  "journalAbbreviation": "Water Resour. Res.",
+  "id": "landerer2012"
+ },
+ {
+  "type": "article-journal",
+  "title": "The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations",
+  "container-title": "Earth System Science Data",
+  "volume": "13",
+  "issue": "8",
+  "page": "3927-3950",
+  "DOI": "10.5194/essd-13-3927-2021",
+  "URL": "https://doi.org/10.5194/essd-13-3927-2021",
+  "publisher": "Copernicus GmbH",
+  "author": [
+   {
+    "family": "Santoro",
+    "given": "Maurizio"
+   },
+   {
+    "family": "Cartus",
+    "given": "Oliver"
+   },
+   {
+    "family": "Carvalhais",
+    "given": "Nuno"
+   },
+   {
+    "family": "Rozendaal",
+    "given": "Danaë M. A."
+   },
+   {
+    "family": "Avitabile",
+    "given": "Valerio"
+   },
+   {
+    "family": "Araza",
+    "given": "Arnan"
+   },
+   {
+    "family": "de Bruin",
+    "given": "Sytze"
+   },
+   {
+    "family": "Herold",
+    "given": "Martin"
+   },
+   {
+    "family": "Quegan",
+    "given": "Shaun"
+   },
+   {
+    "family": "Rodríguez-Veiga",
+    "given": "Pedro"
+   },
+   {
+    "family": "Balzter",
+    "given": "Heiko"
+   },
+   {
+    "family": "Carreiras",
+    "given": "João"
+   },
+   {
+    "family": "Schepaschenko",
+    "given": "Dmitry"
+   },
+   {
+    "family": "Korets",
+    "given": "Mikhail"
+   },
+   {
+    "family": "Shimada",
+    "given": "Masanobu"
+   },
+   {
+    "family": "Itoh",
+    "given": "Takuya"
+   },
+   {
+    "family": "Moreno Martínez",
+    "given": "Álvaro"
+   },
+   {
+    "family": "Cavlovic",
+    "given": "Jura"
+   },
+   {
+    "family": "Cazzolla Gatti",
+    "given": "Roberto"
+   },
+   {
+    "family": "da Conceição Bispo",
+    "given": "Polyanna"
+   },
+   {
+    "family": "Dewnath",
+    "given": "Nasheta"
+   },
+   {
+    "family": "Labrière",
+    "given": "Nicolas"
+   },
+   {
+    "family": "Liang",
+    "given": "Jingjing"
+   },
+   {
+    "family": "Lindsell",
+    "given": "Jeremy"
+   },
+   {
+    "family": "Mitchard",
+    "given": "Edward T. A."
+   },
+   {
+    "family": "Morel",
+    "given": "Alexandra"
+   },
+   {
+    "family": "Pacheco Pascagaza",
+    "given": "Ana Maria"
+   },
+   {
+    "family": "Ryan",
+    "given": "Casey M."
+   },
+   {
+    "family": "Slik",
+    "given": "Ferry"
+   },
+   {
+    "family": "Vaglio Laurin",
+    "given": "Gaia"
+   },
+   {
+    "family": "Verbeeck",
+    "given": "Hans"
+   },
+   {
+    "family": "Wijaya",
+    "given": "Arief"
+   },
+   {
+    "family": "Willcock",
+    "given": "Simon"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "container-title-short": "Earth Syst. Sci. Data",
+  "journalAbbreviation": "Earth Syst. Sci. Data",
+  "id": "santoro2021"
+ },
+ {
+  "type": "dataset",
+  "title": "Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11",
+  "DOI": "10.7927/H4F47M65",
+  "URL": "https://doi.org/10.7927/H4F47M65",
+  "publisher": "NASA Socioeconomic Data and Applications Center (SEDAC)",
+  "version": "4.11",
+  "author": [
+   {
+    "literal": "Center for International Earth Science Information Network (CIESIN)"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "id": "ciesin2018"
+ },
+ {
+  "type": "article-journal",
+  "title": "Advances on the Global Human Settlement Layer by joint assessment of Earth Observation and population survey data",
+  "container-title": "International Journal of Digital Earth",
+  "volume": "17",
+  "issue": "1",
+  "DOI": "10.1080/17538947.2024.2390454",
+  "URL": "https://doi.org/10.1080/17538947.2024.2390454",
+  "publisher": "Informa UK Limited",
+  "author": [
+   {
+    "family": "Pesaresi",
+    "given": "Martino"
+   },
+   {
+    "family": "Schiavina",
+    "given": "Marcello"
+   },
+   {
+    "family": "Politis",
+    "given": "Panagiotis"
+   },
+   {
+    "family": "Freire",
+    "given": "Sergio"
+   },
+   {
+    "family": "Krasnodębska",
+    "given": "Katarzyna"
+   },
+   {
+    "family": "Uhl",
+    "given": "Johannes H."
+   },
+   {
+    "family": "Carioli",
+    "given": "Alessandra"
+   },
+   {
+    "family": "Corbane",
+    "given": "Christina"
+   },
+   {
+    "family": "Dijkstra",
+    "given": "Lewis"
+   },
+   {
+    "family": "Florio",
+    "given": "Pietro"
+   },
+   {
+    "family": "Friedrich",
+    "given": "Hannah K."
+   },
+   {
+    "family": "Gao",
+    "given": "Jing"
+   },
+   {
+    "family": "Leyk",
+    "given": "Stefan"
+   },
+   {
+    "family": "Lu",
+    "given": "Linlin"
+   },
+   {
+    "family": "Maffenini",
+    "given": "Luca"
+   },
+   {
+    "family": "Mari-Rivero",
+    "given": "Ines"
+   },
+   {
+    "family": "Melchiorri",
+    "given": "Michele"
+   },
+   {
+    "family": "Syrris",
+    "given": "Vasileios"
+   },
+   {
+    "family": "Van Den Hoek",
+    "given": "Jamon"
+   },
+   {
+    "family": "Kemper",
+    "given": "Thomas"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "page": "2390454",
+  "container-title-short": "Int. J. Digit. Earth",
+  "journalAbbreviation": "Int. J. Digit. Earth",
+  "id": "pesaresi2024"
+ },
+ {
+  "type": "article-journal",
+  "title": "The Ecology of Interfaces: Riparian Zones",
+  "container-title": "Annual Review of Ecology and Systematics",
+  "volume": "28",
+  "issue": "1",
+  "page": "621-658",
+  "DOI": "10.1146/annurev.ecolsys.28.1.621",
+  "URL": "https://doi.org/10.1146/annurev.ecolsys.28.1.621",
+  "publisher": "Annual Reviews",
+  "author": [
+   {
+    "family": "Naiman",
+    "given": "Robert J."
+   },
+   {
+    "family": "Décamps",
+    "given": "Henri"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1997
+    ]
+   ]
+  },
+  "container-title-short": "Annu. Rev. Ecol. Syst.",
+  "journalAbbreviation": "Annu. Rev. Ecol. Syst.",
+  "id": "naiman1997"
+ },
+ {
+  "type": "chapter",
+  "title": "Application of analytic hierarchy process for mapping flood vulnerability in Odisha using Google Earth Engine",
+  "container-title": "Google Earth Engine and Artificial Intelligence for Earth Observation",
+  "page": "399-420",
+  "DOI": "10.1016/b978-0-443-27372-8.00025-8",
+  "URL": "https://doi.org/10.1016/b978-0-443-27372-8.00025-8",
+  "publisher": "Elsevier",
+  "author": [
+   {
+    "family": "Pradhan",
+    "given": "Pulakesh"
+   },
+   {
+    "family": "Bajpai",
+    "given": "Ranjana"
+   },
+   {
+    "family": "Patra",
+    "given": "Sribas"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "id": "pradhan2025"
+ },
+ {
+  "type": "article-journal",
+  "title": "Implementation of an Online Software Tool for the Analytic Hierarchy Process (AHP-OS)",
+  "container-title": "International Journal of the Analytic Hierarchy Process",
+  "volume": "10",
+  "issue": "3",
+  "DOI": "10.13033/ijahp.v10i3.590",
+  "URL": "https://doi.org/10.13033/ijahp.v10i3.590",
+  "publisher": "Creative Decisions Foundation",
+  "author": [
+   {
+    "family": "Goepel",
+    "given": "Klaus D"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "container-title-short": "Int. J. Anal. Hierarchy Process",
+  "journalAbbreviation": "Int. J. Anal. Hierarchy Process",
+  "id": "goepel2018"
+ },
+ {
+  "type": "article-journal",
+  "title": "Good practices for estimating area and assessing accuracy of land change",
+  "container-title": "Remote Sensing of Environment",
+  "volume": "148",
+  "page": "42-57",
+  "DOI": "10.1016/j.rse.2014.02.015",
+  "URL": "https://doi.org/10.1016/j.rse.2014.02.015",
+  "publisher": "Elsevier BV",
+  "author": [
+   {
+    "family": "Olofsson",
+    "given": "Pontus"
+   },
+   {
+    "family": "Foody",
+    "given": "Giles M."
+   },
+   {
+    "family": "Herold",
+    "given": "Martin"
+   },
+   {
+    "family": "Stehman",
+    "given": "Stephen V."
+   },
+   {
+    "family": "Woodcock",
+    "given": "Curtis E."
+   },
+   {
+    "family": "Wulder",
+    "given": "Michael A."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "container-title-short": "Remote Sens. Environ.",
+  "journalAbbreviation": "Remote Sens. Environ.",
+  "id": "olofsson2014"
+ },
+ {
+  "type": "article-journal",
+  "title": "Notes on continuous stochastic phenomena",
+  "container-title": "Biometrika",
+  "volume": "37",
+  "issue": "1-2",
+  "page": "17-23",
+  "DOI": "10.1093/biomet/37.1-2.17",
+  "URL": "https://doi.org/10.1093/biomet/37.1-2.17",
+  "publisher": "Oxford University Press (OUP)",
+  "author": [
+   {
+    "family": "Moran",
+    "given": "P. A. P."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1950
+    ]
+   ]
+  },
+  "container-title-short": "Biometrika",
+  "journalAbbreviation": "Biometrika",
+  "id": "moran1950"
+ },
+ {
+  "type": "article-journal",
+  "title": "The Analysis of Spatial Association by Use of Distance Statistics",
+  "container-title": "Geographical Analysis",
+  "volume": "24",
+  "issue": "3",
+  "page": "189-206",
+  "DOI": "10.1111/j.1538-4632.1992.tb00261.x",
+  "URL": "https://doi.org/10.1111/j.1538-4632.1992.tb00261.x",
+  "publisher": "Wiley",
+  "author": [
+   {
+    "family": "Getis",
+    "given": "Arthur"
+   },
+   {
+    "family": "Ord",
+    "given": "J. K."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1992
+    ]
+   ]
+  },
+  "container-title-short": "Geogr. Anal.",
+  "journalAbbreviation": "Geogr. Anal.",
+  "id": "getis1992"
+ },
+ {
+  "type": "article-journal",
+  "title": "Estimates of the Regression Coefficient Based on Kendall's Tau",
+  "container-title": "Journal of the American Statistical Association",
+  "volume": "63",
+  "issue": "324",
+  "page": "1379-1389",
+  "DOI": "10.1080/01621459.1968.10480934",
+  "URL": "https://doi.org/10.1080/01621459.1968.10480934",
+  "publisher": "Informa UK Limited",
+  "author": [
+   {
+    "family": "Sen",
+    "given": "Pranab Kumar"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1968
+    ]
+   ]
+  },
+  "container-title-short": "J. Am. Stat. Assoc.",
+  "journalAbbreviation": "J. Am. Stat. Assoc.",
+  "id": "sen1968"
+ },
+ {
+  "type": "dataset",
+  "title": "A Global Dataset of Location Data Integrity-Assessed Reforestation Efforts",
+  "DOI": "10.7910/DVN/ZJODGO",
+  "URL": "https://doi.org/10.7910/DVN/ZJODGO",
+  "publisher": "Harvard Dataverse",
+  "version": "3.0",
+  "author": [
+   {
+    "family": "John",
+    "given": "Angela"
+   },
+   {
+    "family": "Allotey",
+    "given": "Selvyn"
+   },
+   {
+    "family": "Koebe",
+    "given": "Till"
+   },
+   {
+    "family": "Tyukavina",
+    "given": "Alexandra"
+   },
+   {
+    "family": "Weber",
+    "given": "Ingmar"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "id": "lodia2025"
+ },
+ {
+  "type": "article-journal",
+  "title": "Random Forests",
+  "container-title": "Machine Learning",
+  "volume": "45",
+  "issue": "1",
+  "page": "5-32",
+  "DOI": "10.1023/a:1010933404324",
+  "URL": "https://doi.org/10.1023/a:1010933404324",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Breiman",
+    "given": "Leo"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "container-title-short": "Mach. Learn.",
+  "journalAbbreviation": "Mach. Learn.",
+  "id": "breiman2001"
+ },
+ {
+  "type": "article-journal",
+  "title": "Greedy function approximation: a gradient boosting machine",
+  "container-title": "The Annals of Statistics",
+  "volume": "29",
+  "issue": "5",
+  "page": "1189-1232",
+  "DOI": "10.1214/aos/1013203451",
+  "URL": "https://doi.org/10.1214/aos/1013203451",
+  "publisher": "Institute of Mathematical Statistics",
+  "author": [
+   {
+    "family": "Friedman",
+    "given": "Jerome H."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "container-title-short": "Ann. Stat.",
+  "journalAbbreviation": "Ann. Stat.",
+  "id": "friedman2001"
+ },
+ {
+  "type": "paper-conference",
+  "title": "A unified approach to interpreting model predictions",
+  "author": [
+   {
+    "family": "Lundberg",
+    "given": "Scott M."
+   },
+   {
+    "family": "Lee",
+    "given": "Su-In"
+   }
+  ],
+  "container-title": "Advances in Neural Information Processing Systems 30",
+  "page": "4765-4774",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "id": "lundberg2017"
+ },
+ {
+  "type": "article-journal",
+  "title": "NASA Global Daily Downscaled Projections, CMIP6",
+  "container-title": "Scientific Data",
+  "volume": "9",
+  "issue": "1",
+  "DOI": "10.1038/s41597-022-01393-4",
+  "URL": "https://doi.org/10.1038/s41597-022-01393-4",
+  "publisher": "Springer Science and Business Media LLC",
+  "author": [
+   {
+    "family": "Thrasher",
+    "given": "Bridget"
+   },
+   {
+    "family": "Wang",
+    "given": "Weile"
+   },
+   {
+    "family": "Michaelis",
+    "given": "Andrew"
+   },
+   {
+    "family": "Melton",
+    "given": "Forrest"
+   },
+   {
+    "family": "Lee",
+    "given": "Tsengdar"
+   },
+   {
+    "family": "Nemani",
+    "given": "Ramakrishna"
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "page": "262",
+  "container-title-short": "Sci. Data",
+  "journalAbbreviation": "Sci. Data",
+  "id": "thrasher2022"
+ },
+ {
+  "type": "article-journal",
+  "title": "Reference Crop Evapotranspiration from Temperature",
+  "container-title": "Applied Engineering in Agriculture",
+  "volume": "1",
+  "issue": "2",
+  "page": "96-99",
+  "DOI": "10.13031/2013.26773",
+  "URL": "https://doi.org/10.13031/2013.26773",
+  "publisher": "American Society of Agricultural and Biological Engineers (ASABE)",
+  "author": [
+   {
+    "family": "Hargreaves",
+    "given": "George H."
+   },
+   {
+    "family": "Samani",
+    "given": "Zohrab A."
+   }
+  ],
+  "issued": {
+   "date-parts": [
+    [
+     1985
+    ]
+   ]
+  },
+  "container-title-short": "Appl. Eng. Agric.",
+  "journalAbbreviation": "Appl. Eng. Agric.",
+  "id": "hargreaves1985"
+ }
+]
